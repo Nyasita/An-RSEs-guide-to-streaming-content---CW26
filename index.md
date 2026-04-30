@@ -12,7 +12,7 @@ nav_order: 1
   * Platform \- Johanna  
   * Technical considerations \- Bethan, Grace  
   * Content \-   
-  * Marking and advertising \-   
+  * Marking and advertising \- Laurah
   * Community management \- Johanna  
   * Barriers and fears \- Johanna  
 * Video script \- Mateus, Grace  
@@ -115,14 +115,14 @@ The internet is full of trolls. One fear that you might have is that they gather
 
 ***Minute 0.00 \- 0.20 : The hook***
 
-*  Most dRTPs  work / research never gets seen, not because it is not valuable or important  
+*  Most dRTPs  work/research never gets seen, not because it is not valuable or important  
 * Why? But because it is locked in slides and papers or even internal tools  
 * What if people could see your work as it happens?
 
 ***Minute 0:21: \- 0:50 The Problem***
 
-* As dRTPs and research teams we build complex systems and integrated systems and models but explaining that works can be hard  
-* Also, static outputs e.g. papers don’t show the behind the scenes (challenges, decisions,wins)
+* As dRTPs and research teams, we build complex systems and integrated systems and models but explaining that works can be hard  
+* Also, static outputs e.g. papers, don’t show the behind-the-scenes (challenges, decisions,wins)
 
 
 ***Minute 0:51 \- 1.30 The solution***
